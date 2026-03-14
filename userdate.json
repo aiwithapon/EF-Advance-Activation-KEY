@@ -1,6 +1,6 @@
 [
   {
-    "id": "6d95fal7c7e40bea",
+    "id": "user1",
     "username": "dpmods",
     "password": "dpmods",
     "expiresAt": "2025-12-31",
@@ -18,6 +18,6 @@
     "username": "Apon24440",
     "password": "Apon24440",
     "expiresAt": "2026-02-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
