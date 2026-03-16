@@ -18,7 +18,7 @@
     "username": "Apon24440",
     "password": "Apon24440",
     "expiresAt": "2026-11-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "4c415ded1cdcb7f6",
@@ -28,7 +28,7 @@
     "allowOffline": false
   },
     {
-    "id": "android_device_id_2",
+    "id": "00072da34c0dff9b",
     "username": "Tokir2580",
     "password": "Tokir2580",
     "expiresAt": "2026-04-30",
